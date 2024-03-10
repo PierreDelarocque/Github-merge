@@ -1,2 +1,2 @@
-# Github-merge
+REMOTE
 Hello, my name is Pierre !
